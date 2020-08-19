@@ -8,7 +8,7 @@ Each of the sections will have their own README
 ## Completed work so far
 - Python Crash Course
 - NumPy section (Excercises uploaded)
-- Pandas section (Exercises uploaded)
+- Pandas section (Exercises uploaded: Kaggle salaries, Ecommerce with random data)
 
 ## On going:
 ### Personal goal: Due 24.8.2020

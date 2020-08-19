@@ -3,6 +3,10 @@ I am currently working on a Udemy course by [Jose Portilla Python for Data Scien
 I will be pushing all of the work from the course that I am able to write without assistance to this repo. 
 However, I will only push the work I do for the exercises. I will not publish the course material.
 
+## Main objectives of this project
+- Refresh knowledge with NumPy, Panda, Matplotlib, Seaborn
+- Become comfortable with Machine Learning
+
 Each of the sections will have their own README
 
 ## Completed work so far

@@ -21,4 +21,9 @@ Each of the sections will have their own README
 ### Personal goal: Get everything done up to Cufflinks Due 31.8.2020
 
 
-## Then to machine learning
+## Data Capstone Projects
+- 911
+- Finanace
+### Personal Goal: 7.9.0202
+
+## Machine Learning

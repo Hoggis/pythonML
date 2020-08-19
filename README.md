@@ -11,7 +11,7 @@ Each of the sections will have their own README
 - Pandas section (Exercises uploaded)
 
 ## On going:
-###Personal goal: Due 24.8.2020
+### Personal goal: Due 24.8.2020
 - Matplotlib
 
 ## Next up

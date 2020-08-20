@@ -14,13 +14,13 @@ Each of the sections will have their own README which will describe what is in e
 - Python Crash Course
 - NumPy section 
 - Pandas section (Exercises uploaded: Kaggle salaries, Ecommerce with randomly generated data)
+- Matplotlib (Goal set: 24.8, Goal achieved: 20.8)
 
 ## On going:
-### Personal goal: Due 24.8.2020
-- Matplotlib
+### Personal goal: Due 24.8.2020, not switching due date to accelerate completion
+- Seaborn
 
 ## Next up
-- Seaborn
 - Plotly
 - Cufflinks
 ### Personal goal: Get everything done up to Cufflinks Due 31.8.2020

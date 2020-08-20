@@ -1,6 +1,4 @@
-
 import pandas as pd
-
 
 #import dataframe
 df = pd.read_csv("Salaries.csv")

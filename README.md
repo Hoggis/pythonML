@@ -21,9 +21,9 @@ Each of the sections will have their own README which will describe what is in e
 - Seaborn
 
 ## Next up
+### Personal goal: Get everything done up to Cufflinks Due 31.8.2020
 - Plotly
 - Cufflinks
-### Personal goal: Get everything done up to Cufflinks Due 31.8.2020
 
 
 ## Data Capstone Projects

@@ -4,3 +4,8 @@ I will not push the data set here as I do not own it. Please refer to the root f
 
 This was another exercise to really drive home the core features of Pandas.
 After I had completed the SF Salaries exercise this felt rather easy.
+
+- read to dataframe
+- basic data exploration
+- lambda function
+

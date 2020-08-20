@@ -3,7 +3,12 @@ I am currently working on a Udemy course by [Jose Portilla Python for Data Scien
 I will be pushing all of the work from the course that I am able to write without assistance to this repo. 
 However, I will only push the work I do for the exercises. I will not publish the course material.
 
-Each of the sections will have their own README
+Each of the sections will have their own README which will describe what is in each section.
+
+## Main objectives of this project
+- Refresh knowledge with NumPy, Panda, Matplotlib, Seaborn
+- Become comfortable with Machine Learning
+
 
 ## Completed work so far
 - Python Crash Course
@@ -21,4 +26,9 @@ Each of the sections will have their own README
 ### Personal goal: Get everything done up to Cufflinks Due 31.8.2020
 
 
-## Then to machine learning
+## Data Capstone Projects
+- 911
+- Finanace
+### Personal Goal: 7.9.0202
+
+## Machine Learning

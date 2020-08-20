@@ -27,8 +27,8 @@ Each of the sections will have their own README which will describe what is in e
 
 
 ## Data Capstone Projects
+### Personal Goal: Finish projects by 7.9.0202
 - 911
 - Finanace
-### Personal Goal: 7.9.0202
 
 ## Machine Learning

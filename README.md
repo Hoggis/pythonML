@@ -15,20 +15,18 @@ Each of the sections will have their own README which will describe what is in e
 - NumPy section 
 - Pandas section (Exercises uploaded: Kaggle salaries, Ecommerce with randomly generated data)
 - Matplotlib (Goal set: 24.8, Goal achieved: 20.8)
+- Seaborn (Extra goal set: 24.8, Goal achieved 25.8)
 
 ## On going:
-### Personal goal: Due 24.8.2020, not switching due date to accelerate completion
-- Seaborn
-
-## Next up
-### Personal goal: Get everything done up to Cufflinks Due 31.8.2020
+### Personal goal: Due 31.8.2020
 - Plotly
 - Cufflinks
 
-
-## Data Capstone Projects
+## Next up
 ### Personal Goal: Finish projects by 7.9.0202
-- 911
-- Finanace
+- Data Capstone Projects
+-- 911
+-- Finanace
+
 
 ## Machine Learning

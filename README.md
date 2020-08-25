@@ -30,3 +30,5 @@ Each of the sections will have their own README which will describe what is in e
 
 
 ### Machine Learning
+- Linear regression
+- Cross validation

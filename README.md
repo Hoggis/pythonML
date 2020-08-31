@@ -16,19 +16,17 @@ Each of the sections will have their own README which will describe what is in e
 - Pandas section (Exercises uploaded: Kaggle salaries, Ecommerce with randomly generated data)
 - Matplotlib (Goal set: 24.8, Goal achieved: 20.8)
 - Seaborn (Extra goal set: 24.8, Goal achieved 25.8)
+- Plotly & Cufflinks (completed 31.8, but no exercises on the course so will not upload course materials
+- Pandas visualization completed to compensate (Extra work. Completed 31.8)
 
 ## On going:
-### Personal goal: Due 31.8.2020
-- Plotly
-- Cufflinks
-
-## Next up
-### Personal Goal: Finish projects by 7.9.0202
+### Personal Goal: Finish projects by 11.9.2020
 - Data Capstone Projects
   - 911
   - Finanace
 
 
-### Machine Learning
+## Next up
+### Machine Learning by 16.9.2020
 - Linear regression
 - Cross validation

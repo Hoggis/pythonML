@@ -16,7 +16,7 @@ Each of the sections will have their own README which will describe what is in e
 - Pandas section (Exercises uploaded: Kaggle salaries, Ecommerce with randomly generated data)
 - Matplotlib (Goal set: 24.8, Goal achieved: 20.8)
 - Seaborn (Extra goal set: 24.8, Goal achieved 25.8)
-- Plotly & Cufflinks (completed 31.8, but no exercises on the course so will not upload course materials
+- Plotly & Cufflinks (completed 31.8, but no exercises on the course so will not upload course materials)
 - Pandas visualization completed to compensate (Extra work. Completed 31.8)
 
 ## On going:

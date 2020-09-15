@@ -18,15 +18,11 @@ Each of the sections will have their own README which will describe what is in e
 - Seaborn (Extra goal set: 24.8, Goal achieved 25.8)
 - Plotly & Cufflinks (completed 31.8, but no exercises on the course so will not upload course materials)
 - Pandas visualization completed to compensate (Extra work. Completed 31.8)
-
-## On going:
-### Personal Goal: Finish projects by 11.9.2020
-- Data Capstone Projects
+- Data Capstone Projects (Goal set: 11.9.2020, completed 15.9.2020. Finance proved harder than expected)
   - 911
   - Finanace
 
-
-## Next up
-### Machine Learning by 16.9.2020
+## On going:
+### Machine Learning by 21.9.2020
 - Linear regression
 - Cross validation

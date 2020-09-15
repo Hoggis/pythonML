@@ -6,7 +6,7 @@ However, I will only push the work I do for the exercises. I will not publish th
 Each of the sections will have their own README which will describe what is in each section.
 
 ## Main objectives of this project
-- Refresh knowledge with NumPy, Panda, Matplotlib, Seaborn
+- Refresh knowledge with NumPy, Pandas, Matplotlib, Seaborn
 - Become comfortable with Machine Learning
 
 

@@ -1,8 +1,3 @@
-# Simple NumPy operations
+# 911 calls capstone project
 
-Basic python stuff. Good revision though.
-
-- Generating arrays
-  - zeros, ones arange, eye, linspace
-- Selecting values and areas of matrices
-- Mathematical operations
+will add readme tomorrow, but pandas operations with 911 data set from kaggle.

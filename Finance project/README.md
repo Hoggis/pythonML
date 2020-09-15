@@ -1,8 +1,3 @@
-# Simple NumPy operations
+# Finance project
 
-Basic python stuff. Good revision though.
-
-- Generating arrays
-  - zeros, ones arange, eye, linspace
-- Selecting values and areas of matrices
-- Mathematical operations
+will update tomorrow, but all sorts of operations done with yahoo stock data

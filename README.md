@@ -5,6 +5,8 @@ However, I will only push the work I do for the exercises. I will not publish th
 
 Each of the sections will have their own README which will describe what is in each section.
 
+All of the work is done with Jupyter Notebooks, but uploaded as Python files
+
 ## Main objectives of this project
 - Refresh knowledge with NumPy, Pandas, Matplotlib, Seaborn
 - Become comfortable with Machine Learning
@@ -21,8 +23,12 @@ Each of the sections will have their own README which will describe what is in e
 - Data Capstone Projects (Goal set: 11.9.2020, completed 15.9.2020. Finance proved harder than expected)
   - 911
   - Finanace
+- Linear regression (Goal set: 21.9.2020, Goal achieved: 25.9.2020)
 
 ## On going:
-### Machine Learning by 21.9.2020
-- Linear regression
+### Machine Learning by 27.9.2020
 - Cross validation
+
+## Up comming
+- Logistic regression
+- K Nearest Neighbour

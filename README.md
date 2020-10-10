@@ -26,14 +26,14 @@ All of the work is done with Jupyter Notebooks, but uploaded as Python files
 - Linear regression (Goal set: 21.9.2020, Goal achieved: 25.9.2020)
 - Cross validation (Completed: 10.10.2020)
 - Logistic regression (Completed: 10.10.2020)
+- K Nearest Neighbour (Completed: 10.10.2020) Readme not updated
 
 ## On going:
 ### Machine Learning 
 No deadlines anymore since working on commision projects as well. Will do when I have the time.
-- K Nearest Neighbour
+- Decision Trees and Random Forest
 
 ## Up comming
-- Decision Trees and Random Forest
 - SVM
 - K-means
 - Principal Component Analysis

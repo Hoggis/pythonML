@@ -24,11 +24,12 @@ All of the work is done with Jupyter Notebooks, but uploaded as Python files
   - 911
   - Finanace
 - Linear regression (Goal set: 21.9.2020, Goal achieved: 25.9.2020)
-- Cross validation
-- Logistic regression
+- Cross validation (Completed: 10.10.2020)
+- Logistic regression (Completed: 10.10.2020)
 
 ## On going:
-### Machine Learning no dates anymore since working on commision projects as well. Will do when I have the time.
+### Machine Learning 
+No deadlines anymore since working on commision projects as well. Will do when I have the time.
 - K Nearest Neighbour
 
 ## Up comming
